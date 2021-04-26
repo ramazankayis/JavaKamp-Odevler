@@ -14,7 +14,7 @@ public class Main {
 			System.out.println("ürün adı: "+ product.productName);
 			
 		}
-		System.out.println("**123***3123*");
+		System.out.println("**123***3123****************12321312*********3123213");
 		
 		Category category1= new Category(1, "içeçekler");
 		Category category2= new Category(2, "süt ürünleri");
